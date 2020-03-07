@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "08d44bbe-fbb5-4dfa-961b-4fa8e5a77914",
+            "Value": {
+                "id": "d58db819-e41d-4dbe-b62c-19ad49f25d46",
+                "resourcePath": "objects\\obj_vines\\obj_vines.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0db4c480-5b49-4606-ad9b-877df865a207",
             "Value": {
                 "id": "14504d13-a0ca-451d-931f-2ae54a8bd69d",
@@ -100,6 +108,14 @@
                 "id": "5fff1655-82c8-4509-a1d4-4d318035aab3",
                 "resourcePath": "views\\4ab4fa0b-772b-4084-81fc-3b1561d1376d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4d5b4fa2-ccf1-4f24-bc60-3c9cf9649c01",
+            "Value": {
+                "id": "6880586a-8be8-4298-8f2e-3c28191bada6",
+                "resourcePath": "sprites\\spr_vines\\spr_vines.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
